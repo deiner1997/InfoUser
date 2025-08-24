@@ -1,0 +1,13 @@
+.icon-edit {
+  color: blue;
+  font-size: 20px;
+  cursor: pointer; /* Opcional para indicar que es clickeable */
+}
+.icon-delete {
+  color: red;
+  font-size: 20px;
+  cursor: pointer; /* Opcional para indicar que es clickeable */
+}
+.text-center{
+    text-align: "center"
+}
